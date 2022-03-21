@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box !important;
+}
+
+html {
+  font-size: 62.5% !important;
+}
+
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-resume {
+  border: 1px solid orange;
+  border-radius: 5px;
+}
+
+.btn-resume:hover {
+  background-color: orange;
+  color: white;
+}
+
+.btn-social {
+  border: 1px solid black;
+  color: white;
+  border-radius: 5px;
+  color: black;
+}
+
+.btn-social:hover {
+  background-color: black;
+  color: white;
+}
